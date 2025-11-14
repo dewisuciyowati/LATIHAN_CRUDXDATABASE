@@ -138,7 +138,6 @@
 </script>
 
 <div class="text-center mb-4">
-  <img src="{{ asset('images/logo-sikriuk.png') }}" alt="Si Kriuk Logo" width="120">
   <h2>🌶️ Daftar Produk Si Kriuk</h2>
   <p class="slogan">Pedasnya Bikin Ketagihan, Gurihnya Bikin Nagih!</p>
 </div>
